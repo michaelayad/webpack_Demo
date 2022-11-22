@@ -1,0 +1,12 @@
+/*!*****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/style.css ***!
+  \*****************************************************************/body{box-sizing:border-box;margin:0;padding:0;text-align:center}
+
+
+  
+/*!**********************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/component/header/style.css ***!
+  \**********************************************************************************/.info,body{font-size:50px;justify-content:center}.info{align-items:center;background-color:rgba(80,171,223,.822);color:#f0f8ff;display:flex;height:70px;line-height:1.4}img{padding-left:20px}
+/*!*********************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/component/cover/style.css ***!
+  \*********************************************************************************/.cover{backdrop-filter:blur(100%);background-image:url(assets/cover.jpg);background-position:50%;background-repeat:no-repeat;background-size:cover;height:400px}
